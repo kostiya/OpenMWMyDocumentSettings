@@ -1,0 +1,3 @@
+tgm
+tcl
+player->setspeed 1200  ; Or a higher value as desired
